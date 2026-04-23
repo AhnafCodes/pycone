@@ -1,4 +1,4 @@
-# tdom
+# PyCone <{O
 
 A 🤘 rockin' t-string HTML templating system for Python 3.14.
 
@@ -35,7 +35,7 @@ uv run --with tdomx --python 3.14 python
 
 ## Usage
 
-`tdom` leverages Python 3.14's
+`tdom` or Pycone leverages Python 3.14's
 [new t-strings feature](https://t-strings.help/introduction.html) to provide a
 powerful HTML templating system that feels familiar if you've used JSX, Jinja2,
 or Django templates.
